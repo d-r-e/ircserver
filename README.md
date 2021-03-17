@@ -7,6 +7,7 @@ so, you will follow the real IRC RFC and test your work with real IRC clients. I
 is ruled by solid and standards protocols that allow a strong interaction between every
 connected computer. It’s always good to know about it._
 
+This program follows the RFC 1459, 2810, 2811, 2812, 2813 and 7194.
 
 ## Contents
 
